@@ -1,4 +1,4 @@
-# Problems synopses from website
+# Problems' synopses from website
 
 ## Problem 1
 
